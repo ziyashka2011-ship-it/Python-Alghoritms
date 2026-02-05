@@ -1,0 +1,16 @@
+#арефметические операторы
+a= int(input('Enter the first number: '))
+b= int(input('Enter the second number: '))
+print('The sum of the two numbers is:', a + b)
+print('произведение чисел:', a * b)
+print('разность чисел:', a - b)
+print('частное чисел:', a / b)
+print('Остаток от деления:', a % b)
+print('Возвещение в степень:', a ** b)
+#операторы сравнения
+print('Сравнение чисел:', a < b)
+print('Сравнение чисел:', a > b)
+print('Сравнение чисел:', a <=b)
+print('Сравнение чисел:', a >= b)
+print('Сравнение чисел:', a == b)
+print('Сравнение чисел:', a != b)
